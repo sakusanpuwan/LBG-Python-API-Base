@@ -1,0 +1,1 @@
+This is a Python Flask REST API, serving a simple frontend for use in the LBG MEA program

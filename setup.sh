@@ -42,7 +42,7 @@ modify_app() {
 
     sleep 3
 
-    # sets PORT environment variable to 5001
+    # sets PORT environment variable to 8080
    export PORT=8080 
 
     echo "Modifications done. Port is now set to $PORT"

@@ -4,7 +4,7 @@ pipeline {
 
     environment {
 
-        GCR_CREDENTIALS_ID = 'GCP-secret' // The ID you provided in Jenkins credentials
+        GCR_CREDENTIALS_ID = 'GCP-secret' //The ID you provided in Jenkins credentials
 
         IMAGE_NAME = 'sp-test-build-1'
 

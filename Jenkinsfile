@@ -16,7 +16,7 @@ pipeline {
 
         LOCATION = 'europe-west2-c'
 
-        CREDENTIALS_ID = 'Kubernetes-secret'
+        CREDENTIALS_ID = 'K8-secret'
 
     }
 
